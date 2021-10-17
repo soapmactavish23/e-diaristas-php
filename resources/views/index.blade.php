@@ -59,6 +59,7 @@
                 @endforelse
             </tbody>
         </table>
+        <a href="/diaristas/create" class="btn btn-success">Nova diarista</a>
     </div>
 
     <!-- Optional JavaScript; choose one of the two! -->
